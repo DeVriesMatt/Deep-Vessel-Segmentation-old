@@ -132,4 +132,7 @@ dmypy.json
 .DS_Store
 
 # Data
-.data
+.data/
+
+*/.idea/workspace.xml
+*/.idea/tasks.xml
